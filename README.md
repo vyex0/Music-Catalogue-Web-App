@@ -1,2 +1,1 @@
-# Music-Catalogue-Web-App
 Built an ASP.NET Core MVC app on the Chinook database with full CRUD for albums and customers, using Entity Framework Core and LINQ.
